@@ -172,5 +172,3 @@ Pull request sangat diterima! Untuk perubahan besar, buka issue terlebih dahulu 
 Proyek ini menggunakan lisensi [MIT](LICENSE).
 
 ---
-
-<p align="center">Dibuat dengan ❤️ untuk MKWK Universitas Indraprasta PGRI</p>
